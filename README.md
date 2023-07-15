@@ -1,1 +1,2 @@
-# resources
+
+Mostly links to books, useful webpages, other resources...

@@ -1,6 +1,6 @@
 # Well-written books on science and scientists
 
-I [asked on Twitter](https://twitter.com/arghya_dutta_/status/1679955697289576448) which books people like for clarity and prose; many generously shared their favorites! As the Twitter thread quickly became a maze, I collected them here and, if available, added *links to Open Library—where you can borrow and read quite a few of them for free*! I will update the list as more suggestions come in.
+I [asked on Twitter](https://twitter.com/arghya_dutta_/status/1679955697289576448) which books people like for clarity and prose; many generously shared their favorites. As the Twitter thread quickly became a maze, I collected them here and, if available, added *links to Open Library—where you can borrow and read quite a few of them for free*! I will update the list as more suggestions come in. Thanks to all who shared their favorites. 🙂
 
 ## General science
 

@@ -28,6 +28,8 @@ I [asked on Twitter](https://twitter.com/arghya_dutta_/status/167995569728957644
 - [Uncle Petros and Goldbach's Conjecture](https://openlibrary.org/works/OL965997W/Ho_theios_Petros_kai_he%CC%84_eikasia_tou_gkolntmpach?edition=key%3A/books/OL3987007M) by Apostolos Doxiadis
 - [On the origin of species by means of natural selection](https://openlibrary.org/works/OL515051W/On_the_origin_of_species_by_means_of_natural_selection) by Charles Darwin
 - [Physics and Beyond: Encounters and Conversations](https://openlibrary.org/books/OL43309149M/Physics_and_Beyond) by Werner Heisenberg
+- [A cultural history of physics](https://openlibrary.org/works/OL15632064W/A_cultural_history_of_physics) by Károly Simonyi
+- [Hidden Wonders: The Subtle Dialogue Between Physics and Elegance](https://openlibrary.org/books/OL30014044M/Hidden_Wonders) by E. Guyon, J. Bico, E. Reyssat, and B. Roman
 
 ## Biographies
 

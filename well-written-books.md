@@ -61,5 +61,7 @@ A [helpful video](https://www.youtube.com/watch?v=LP1Wleu3Njs) by Meghan Adrian 
 - [Introduction to modern statistical mechanics](https://openlibrary.org/works/OL5268152W/Introduction_to_modern_statistical_mechanics) by David Chandler
 - [Computer Simulation of Liquids](https://openlibrary.org/books/OL28166350M/Computer_Simulation_of_Liquids) by M. P. Allen and D. J. Tildesley
 - [Protein physics](https://openlibrary.org/works/OL5964687W/Protein_physics) by Finkelstein and Ptitsyn
-- [Ionic Solution Theory](https://openlibrary.org/works/OL33787106W/Ionic_Solution_Theory?edition=key%3A/books/OL45759248M) by H Friedman and I Prigogine
+- [Ionic Solution Theory](https://openlibrary.org/works/OL33787106W/Ionic_Solution_Theory?edition=key%3A/books/OL45759248M) by H. Friedman and I. Prigogine
 - [Theory of the stability of lyophobic colloids](https://openlibrary.org/works/OL85937W/Theory_of_the_stability_of_lyophobic_colloids) by Verwey and Overbeek
+- [Feynman's thesis](https://openlibrary.org/books/OL22718463M/Feynman's_thesis) by R. P. Feynman
+- [Quantum mechanics and path integrals](https://openlibrary.org/works/OL10477081W/Quantum_mechanics_and_path_integrals?edition=key%3A/books/OL14889021M) by R. P. Feynman

@@ -1,6 +1,6 @@
 # Books on quantum mechanics and statistical mechanics
 
-![](../books-sm-qm.jpeg)
+![](./assets/books-sm-qm.jpeg)
 
 2023-07-31, Monday
 

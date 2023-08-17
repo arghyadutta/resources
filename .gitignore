@@ -1,6 +1,7 @@
 .DS_Store
 
 ## LaTeX
+**/*.tex
 **/*.fdb_latexmk
 **/*.aux
 **/*.fls

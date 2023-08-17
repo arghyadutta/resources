@@ -1,0 +1,139 @@
+\documentclass[11pt]{article}
+\usepackage[a3paper, landscape, margin=2cm]{geometry}
+\usepackage{multicol,amsmath,amssymb,physics}
+\setlength{\columnsep}{1cm}
+\usepackage[dvipsnames]{xcolor}
+\newcommand{\q}[1]{\textcolor{Salmon}{\emph{Check}: {#1}}}
+
+\title{Notes on Quantum mechanics}
+\author{Arghya Dutta}
+\date{\today}
+\begin{document}
+% \maketitle
+
+\begin{multicols}{3}
+    Incomplete, cryptic, typo-ridden notes and (elementary) questions on quantum information and quantum computation. I'm writing these \textit{for me} as I'm reading Nielsen and Chuang. Why did I put it on GitHub then? I don't have an answer, sorry. The pdf is meant to be printed on A3 paper in landscape mode. Last compiled on \today.---Arghya
+
+    \section{Linear algebra}
+    \begin{itemize}
+
+        \item \textbf{Inner product}
+              \begin{align}
+                   & (\ket{v},\lambda \ket{w}) =\lambda(\ket{v}, \ket{w})  \\
+                   & (\lambda\ket{v}, \ket{w})=\lambda^*(\ket{v}, \ket{w}) \\
+                   & (\ket{v},\ket{w}) =(\ket{w}, \ket{v})^*
+              \end{align}
+
+        \item A \textbf{dual vector} is a linear operator from $V\rightarrow\mathbb{C}$ since $(\bra{v})\ket{w} = \braket{v}{w}$. So, it’s a row vector. \q{So, row vector can act as an operator? I think 3blue1brown mentioned something on this.}
+
+        \item \textbf{Orthogonal vectors}: $(\ket{v}, \ket{w}) = 0$
+
+        \item \textbf{Orthonormal basis set} is complete $\sum_i \dyad{i}  = I$
+
+        \item \textbf{Gram--Schmidt method} makes a basis set orthonormal. \q{right? what else it does?}
+
+        \item \textbf{Outer-product representation} of operators \begin{align}
+                  A = I_WAI_V = \sum_{ij}\dyad{w_j}A \dyad{v_i}=\sum_{ij} \mel{w_j}{A}{v_i}\ket{w_j}\bra{v_i}
+              \end{align}
+
+        \item Outer-product representation reduces to \textbf{diagonal representation} (eigendecomposition) when $|v_i\rangle, |w_j\rangle$ are orthonormal eigenvalues of A (do they need to form a basis?)
+              \subitem $A = \sum_i \lambda_i \dyad{i}$
+              \subitem Example: Hamiltonian operator! $H=\sum_E E\dyad{E}$
+
+        \item \textbf{Adjoint vector} $\ket{v}^\dagger \equiv \bra{v}$
+              \subitem Properties
+              \begin{align}
+                   & A^\dagger = (A^*)^{\rm T}                                                   \\
+                   & (AB)^\dagger = B^\dagger A^\dagger                                          \\
+                   & (A^\dagger)^\dagger = A                                                     \\
+                   & \left(\sum_i a_i A_i\right)^\dagger = \left(\sum_i a_i^* A_i^\dagger\right)
+              \end{align}
+
+        \item \textbf{Self-adjoint/Hermitian operator}: $A^\dagger=A$
+
+        \item \textbf{Simultaneous diagonalization theorem}: $\comm{A,B}=0$ iff there exists an orthonormal basis in which $A$ and $B$ are both diagonal. Important for uncertainty relation. (Check: is this the complete set of commutating operators Cohen Tannoudji keeps mentioning?)
+        \item Projector operator: Hermitian operator that projects to a subspace
+              \begin{align}
+                  P=\sum_{i=1}^k \dyad{i},\; P^\dagger=P,\; P^2 =P
+              \end{align}
+              \subitem Special case: Measurement operator $M=\sum_i\lambda_i P_i$
+
+
+        \item \textbf{Normal operator}: $A$ is normal if
+              \begin{align}
+                  A^\dagger A = A A^\dagger
+              \end{align}
+
+        \item \textbf{Spectral decomposition} $A$ is normal if and only if it's diagonalizable.
+
+        \item A \textbf{normal matrix is Hermitian if and only if it has real eigenvalues}.
+
+        \item \textbf{Unitary operator}: normal with $A^\dagger A = A A^\dagger=I$. Since $U$ is normal, it's diagonalizable, too.
+              \subitem $U$ preserves inner product $(U\ket{v}, U\ket{w}) = \langle v\ket{w}$.
+              \subitem $U = \sum_i \ket{w_i}\bra{v_i}$ \q{how}
+
+        \item \textbf{Positive operator}: $(\ket{v},A\ket{v})\geq 0$. If it is $>0$, then $A$ is called positive definite.
+
+        \item \textbf{Tensor products}: If $V$ and $W$ are $m$ and $n$ dimensional vector spaces, then $V\otimes W$ (read as `V tensor W') is an $mn$ dimensional vector space.
+              \subitem If $\ket{i}$ and $\ket{j}e$ are orthonormal bases in $V$ and $W$ then $\ket{i}\otimes \ket{j}e$ is a basis for $V\otimes W$.
+              \subitem $z(\ket{v}\otimes\ket{w})=(z\ket{v})\otimes\ket{w}=\ket{v}\otimes(z\ket{w})$
+              \subitem $(|v_1\rangle+|v_2\rangle)\otimes\ket{w}=|v_1\rangle\otimes\ket{w}+|v_2\rangle\otimes\ket{w}$
+              \subitem $\ket{v}\otimes(|w_1\rangle+|w_2\rangle) = \ket{v}\otimes|w_1\rangle + \ket{v}\otimes|w_2\rangle$
+              \subitem Linear operators on $V\otimes W$: If $A:V\rightarrow V'$ and $B:W\rightarrow W'$ are two linear operators, then $A\otimes B: V\otimes W\rightarrow V'\otimes W'$ is defined as
+              \begin{align}
+                  (A\otimes B)(\ket{v}\otimes\ket{w})\equiv A\ket{v} \otimes B\ket{w}.
+              \end{align}
+              It obeys all properties of linear operators.
+              \subitem Inner product in tensor-product space:
+              \begin{align}
+                  \sum_i a_i |v_i\rangle \otimes \ket{w_i}, \sum_j b_j |v_j'\rangle \otimes |w_j'\rangle = \sum_{ij}a_i^*b_j\bra{v_i}v_j'\rangle \langle w_i|w_j'\rangle
+              \end{align}
+              \subitem \textbf{Kronecker product} as matrix representation for $A\otimes B$
+              \begin{align} A\otimes B \equiv
+                  \begin{bmatrix}
+                      A_{11}B & A_{12}B \\
+                      A_{21}B & A_{22}B \\
+                  \end{bmatrix}
+              \end{align}
+
+        \item \textbf{Pauli matrices}
+              \begin{align}
+                   & \sigma_0 \equiv I \equiv
+                  \begin{bmatrix}
+                      1 & 0 \\
+                      0 & 1 \\
+                  \end{bmatrix} \label{sigma0}                \\
+                   & \sigma_1 \equiv \sigma_x \equiv X \equiv
+                  \begin{bmatrix}
+                      0 & 1 \\
+                      1 & 0 \\
+                  \end{bmatrix} \label{sigma1}                \\
+                   & \sigma_2 \equiv \sigma_y \equiv Y \equiv
+                  \begin{bmatrix}
+                      0 & -i \\
+                      i & 0  \\
+                  \end{bmatrix} \label{sigma2}                \\
+                   & \sigma_3 \equiv \sigma_z \equiv Z \equiv
+                  \begin{bmatrix}
+                      1 & 0  \\
+                      0 & -1 \\
+                  \end{bmatrix}\label{sigma3}
+              \end{align}
+        \item \textbf{Functions of operators} Let $A=\sum_a a|a\rangle\langle a|$ be a spectral decomposition of the \textit{normal operator} $A$, then $f(A)=\sum_a f(a)|a\rangle\langle a|$. Example: \begin{align}\exp(\theta Z)=\begin{bmatrix}
+                      \exp(\theta) & 0             \\
+                      0            & \exp(-\theta) \\
+                  \end{bmatrix}\end{align} \q{does it only work for normal operators? need to think}
+
+        \item \textbf{Trace}: $\tr(A)=\sum_i A_{ii},\; \tr(AB)=\tr(BA),\; \tr(A+B)=\tr(A)+\tr(B),\; \tr(zA)=z\tr(A) $
+
+        \item  \textbf{Similarity transformation} $A\rightarrow UAU^\dagger$. \textit{Preserves trace.}
+
+    \end{itemize}
+
+
+
+
+\end{multicols}
+
+\end{document}
+

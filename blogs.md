@@ -5,7 +5,7 @@ A list of academic blogs that I follow. I've learned a lot from them over the ye
 - [AI: A Guide for Thinking Humans](https://aiguide.substack.com/)
 - [Almost Sure. A random mathematical blog](https://almostsuremath.com/)
 - [Condensed concepts](https://condensedconcepts.blogspot.com/)
-- [Ahead of AI](https://magazine.sebastianraschka.com/archive)
+- [Ahead of AI](https://magazine.sebastianraschka.com/)
 - [Machine Learning Research Blog](https://francisbach.com/)
 - [Forms of life, forms of mind](https://thoughtforms.life/)
 - [Scatterings](https://backscattering.blog/)

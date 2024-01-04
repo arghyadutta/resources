@@ -10,7 +10,7 @@ A list of academic blogs that I follow. I've learned a lot from them over the ye
 - [Forms of life, forms of mind](https://thoughtforms.life/)
 - [Scatterings](https://backscattering.blog/)
 - [nanoscale views](https://nanoscale.blogspot.com/)
-- [Nick Highham](https://nhigham.com/)
+- [Nick Highham](https://nhigham.com/blog/)
 - [off the convex path](http://offconvex.github.io/)
 - [Probably overthinking it](https://www.allendowney.com/blog)
 - [Simon Willison's weblog](https://simonwillison.net/)

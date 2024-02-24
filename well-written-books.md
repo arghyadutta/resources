@@ -1,8 +1,12 @@
 # Well-written books on science and scientists
 
-I [asked on Twitter](https://twitter.com/arghya_dutta_/status/1679955697289576448) which books people like for clarity and prose; many generously shared their favorites. As the Twitter thread quickly became a maze, I collected them here and, if available, added *links to Open Library—where you can borrow and read quite a few of them for free*! I will update the list as more suggestions come in. Thanks to all who shared their favorites. 🙂
+I [asked on Twitter](https://twitter.com/arghya_dutta_/status/1679955697289576448) which books people like for clarity and prose; many generously shared their favorites. As the Twitter thread quickly became a maze, I collected them here and, if available, added *links to Open Library—where you can borrow and read quite a few of them for free*! I will update the list as more suggestions come in. Thanks to all who shared their favorites.
 
 A [helpful video](https://www.youtube.com/watch?v=LP1Wleu3Njs) by Meghan Adrian on how Open Library works and how you can browse and, if available, borrow books.
+
+Note: I will keep adding books that I find well-written to this list. (2024-02-24, Saturday)
+
+---
 
 ## General science
 
@@ -32,6 +36,9 @@ A [helpful video](https://www.youtube.com/watch?v=LP1Wleu3Njs) by Meghan Adrian 
 - [Physics and Beyond: Encounters and Conversations](https://openlibrary.org/books/OL43309149M/Physics_and_Beyond) by Werner Heisenberg
 - [A cultural history of physics](https://openlibrary.org/works/OL15632064W/A_cultural_history_of_physics) by Károly Simonyi
 - [Hidden Wonders: The Subtle Dialogue Between Physics and Elegance](https://openlibrary.org/books/OL30014044M/Hidden_Wonders) by E. Guyon, J. Bico, E. Reyssat, and B. Roman
+- [The Way of the Cell: Molecules, Organisms, and the Order of Life](https://global.oup.com/academic/product/the-way-of-the-cell-9780195163384) by Franklin M. Harold
+- [Boojums All the Way through: Communicating Science in a Prosaic Age](https://www.cambridge.org/us/universitypress/subjects/physics/history-philosophy-and-foundations-physics/boojums-all-way-through-communicating-science-prosaic-age?format=PB) by N. David Mermin
+
 
 ## Biographies
 
@@ -46,7 +53,7 @@ A [helpful video](https://www.youtube.com/watch?v=LP1Wleu3Njs) by Meghan Adrian 
 - [Adventures of a mathematician](https://www.ucpress.edu/book/9780520071544/adventures-of-a-mathematician) by S. M. Ulam
 - [Littlewood's Miscellany](https://openlibrary.org/books/OL2716488M/Littlewood's_Miscellany) by J. E. Littlewood
 
-## Closer to textbooks
+## Textbooks
 
 - [A Walk Through Combinatorics](https://openlibrary.org/works/OL20904831W/Walk_Through_Combinatorics_A?edition=key%3A/books/OL28316274M) by Miklós Bóna
 - [Concrete Mathematics: A Foundation for Computer Science](https://openlibrary.org/works/OL3951639W/Concrete_mathematics?edition=key%3A/books/OL1429049M) by Ronald Graham, Donald Knuth, and Oren Patashnik
@@ -65,3 +72,6 @@ A [helpful video](https://www.youtube.com/watch?v=LP1Wleu3Njs) by Meghan Adrian 
 - [Theory of the stability of lyophobic colloids](https://openlibrary.org/works/OL85937W/Theory_of_the_stability_of_lyophobic_colloids) by Verwey and Overbeek
 - [Feynman's thesis](https://openlibrary.org/books/OL22718463M/Feynman's_thesis) by R. P. Feynman
 - [Quantum mechanics and path integrals](https://openlibrary.org/works/OL10477081W/Quantum_mechanics_and_path_integrals?edition=key%3A/books/OL14889021M) by R. P. Feynman
+- [Cell Biology by the Numbers](https://book.bionumbers.org/) by Ron Milo and Rob Phillips
+- [Quantum Computation and Quantum Information](https://books.google.de/books/about/Quantum_Computation_and_Quantum_Informat.html?id=-s4DEy7o-a0C&redir_esc=y) by Michael A. Nielsen and Isaac L. Chuang
+- [Quantum Computation Lecture Notes (Caltech CS219)](http://theory.caltech.edu/~preskill/ph229/) by John Preskill

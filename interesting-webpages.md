@@ -1,9 +1,4 @@
-# Interesting webpages
-
-## Academicians
-
-- [Memories of a Bangalore Quartet](https://connect.iisc.ac.in/2017/06/memories-of-a-bangalore-quartet/) by P. Balaram
-- [Memories of a Theoretical Physicis](https://arxiv.org/abs/1708.09093) by Joseph Polchinski
+# Interesting and/or useful webpages
 
 ## Chemistry
 
@@ -21,9 +16,7 @@
 
 - [Fountain Pen Network](https://www.fountainpennetwork.com/)
 - [Information is beautiful](https://www.informationisbeautiful.net/)
-- [What Are All The Kinds Of Rice?](https://www.foodrepublic.com/2017/03/15/all-types-of-rice/)
 - [Apples on a scale from most tart to most sweet](https://www.reddit.com/r/coolguides/comments/davkj5/apples_on_a_scale_from_most_tart_to_most_sweet/)
-- [The Complete Guide to Sugar Around the World from Saveur](https://www.saveur.com/global-sugar-guide)
 
 ## Nifty tools
 
@@ -55,16 +48,14 @@
 - [Why Python is Slow: Looking Under the Hood](https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/) by Jake Vanderplus
 - [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/) by Jay Alammar
 
-## Research
+## Guides on Research
 
-- [You And Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) by Richard Hamming
 - [Assorted articles](https://teelabiisc.wordpress.com/professional-skills/) curated by Vishwesha Guttal
 - [Towards research independence](https://condensedconcepts.blogspot.de/2011/09/towards-research-independence.html) by Ross Mckenji
-- [Principles of effective research](https://michaelnielsen.org/blog/principles-of-effective-research/) by Michael Nielsen
-- [On proof and progress in mathematics](https://arxiv.org/abs/math/9404236) by William Thurston
 - [Some musings on academic research](https://home.iitk.ac.in/~anindya/musing_on_academic_research.htm) by Anindya Chatterjee
+- [You And Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) by Richard Hamming
 
-## Statistics and Machine learning
+## Free books on Statistics and Machine Learning
 
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
 - [Deep Learning for Molecules and Materials](https://whitead.github.io/dmol-book/intro.html) by Andrew D. White
@@ -73,7 +64,7 @@
 - [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 
-## On writing
+## Resources on Writing
 
 - [Punctuation guide](https://www.thepunctuationguide.com/)
 - [Purdue Online Writing Lab](https://owl.purdue.edu/owl/purdue_owl.html)

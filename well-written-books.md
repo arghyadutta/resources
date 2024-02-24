@@ -4,7 +4,7 @@ I [asked on Twitter](https://twitter.com/arghya_dutta_/status/167995569728957644
 
 A [helpful video](https://www.youtube.com/watch?v=LP1Wleu3Njs) by Meghan Adrian on how Open Library works and how you can browse and, if available, borrow books.
 
-Note: I will keep adding books that I find well-written to this list. (2024-02-24, Saturday)
+Note: I will keep adding books to this list.
 
 ---
 
@@ -38,7 +38,7 @@ Note: I will keep adding books that I find well-written to this list. (2024-02-2
 - [Hidden Wonders: The Subtle Dialogue Between Physics and Elegance](https://openlibrary.org/books/OL30014044M/Hidden_Wonders) by E. Guyon, J. Bico, E. Reyssat, and B. Roman
 - [The Way of the Cell: Molecules, Organisms, and the Order of Life](https://global.oup.com/academic/product/the-way-of-the-cell-9780195163384) by Franklin M. Harold
 - [Boojums All the Way through: Communicating Science in a Prosaic Age](https://www.cambridge.org/us/universitypress/subjects/physics/history-philosophy-and-foundations-physics/boojums-all-way-through-communicating-science-prosaic-age?format=PB) by N. David Mermin
-
+- [Memories of a Theoretical Physicis](https://arxiv.org/abs/1708.09093); Joseph Polchinski; arXiv (2017)
 
 ## Biographies
 

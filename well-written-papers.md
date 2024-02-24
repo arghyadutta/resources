@@ -1,6 +1,6 @@
 # Well-written papers
 
-It's hard to find well-written papers. Here are some I liked for their prose; of course, the science is good, too!
+It's hard to find well-written papers. Here are some I liked for their prose; of course, the content is great, too!
 
 1. Deserno, M. Fluid Lipid Membranes – a Primer <https://www.cmu.edu/biolphys/deserno/pdf/membrane_theory.pdf>
 2. Overbeek, J. T. G.; Voorn, M. J. Phase Separation in Polyelectrolyte Solutions. Theory of Complex Coacervation. Journal of Cellular and Comparative Physiology 1957, 49 (S1), 7–26. <https://doi.org/10.1002/jcp.1030490404>.  

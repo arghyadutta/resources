@@ -1,6 +1,6 @@
 # Academic blogs
 
-A list of academic blogs that I follow. I've learned a lot from them over the years—I am grateful to the authors. You may find them useful, too.
+A list of academic blogs that I follow. I've learned a lot from them over the years. I am grateful to the authors.
 
 - [AI: A Guide for Thinking Humans](https://aiguide.substack.com/)
 - [Almost Sure. A random mathematical blog](https://almostsuremath.com/)

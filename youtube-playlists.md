@@ -8,7 +8,7 @@ A curated list of excellent math/science/writing classes or lecture series that 
 - [Writing in the Sciences by Kristin Sainani](https://www.youtube.com/playlist?list=PLGNyy-rO8GoM7uUxVfYJbccEO8eNFfr1M). If you're starting to write scientific prose, watch the series. Seriously.
 - [Foundations of Quantum Mechanics by Florian Marquardt](https://www.youtube.com/playlist?list=PLemsnf33Vij6fbgJvFsm_ipMiFHxS4_kw). Fun slides on an intriguing topic.
 - [Introduction to Neuroscience by Bing Wen Brunton](https://www.youtube.com/playlist?list=PLqgZEQsU_8E0l1P9bKR6yKOKPMpoJ_tLR)
-- [Useful short guides from @ERC_Research on proposal writing](https://www.youtube.com/playlist?list=PLtv6FnsXqnXAYRk6HCErwMxwML0ZKoMcy)
+- [Useful short guides from ERC on proposal writing](https://www.youtube.com/playlist?list=PLtv6FnsXqnXAYRk6HCErwMxwML0ZKoMcy)
 - Roman Vershynin has two neat series on probability theory: [Undergraduate Probability](https://www.youtube.com/playlist?list=PLPjEEUWIWhQVCnBNkMAc4xxCXSILJDJKl) and [High-Dimensional Probability](https://www.youtube.com/playlist?list=PLPjEEUWIWhQV7X6dXfrVP3w0KBBLBVJ0j). He teaches with such care and patience!
 - [Singular Value Decomposition by Steven Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv). Delightful variations on a theme. Exceptionally clear.
 - I think adding videos *on* scientists to this list makes sense. Here is a series where [Rob Phillips is interviewed by David Zierler for the Caltech Heritage project](https://www.youtube.com/playlist?list=PLJpNowxCdwLUoIXuC85SVpbNYWrLmokS_). Inspiring and bold!

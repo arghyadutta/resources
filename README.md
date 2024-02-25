@@ -1,1 +1,1 @@
-Interesting books, webpages, articles, papers, apps, short stories,….
+Interesting books, webpages, articles, papers, apps, short stories,…. Most of the lists began as threads on Twitter, often with inputs from others. I found the linked stuff useful, and I believe others can benefit from them, too. So, rather than burying the lists in old Twitter threads, I decided to put them in plain text files with links and share them here on GitHub. It's also easier to keep them updated here. Enjoy reading!

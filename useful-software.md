@@ -9,6 +9,7 @@ Nifty and free software tools.
 3. [Rectangle](https://rectangleapp.com) moves and resizes windows in MacBook.
 4. [Duplicate File Finder Remover](https://apps.apple.com/us/app/duplicate-file-finder-remover/id1032755628) finds (and removes) duplicate files.
 5. [OmniDiskSweeper](https://omnigroup.com/more) finds and helps delete large files.
+6. If you want to use Webster's 1913 unabridged dictionary as your MacBook's Dictionary, [here is how to do it](https://github.com/cmod/websters-1913). And this is why you should use [Webster's 1913](https://jsomers.net/blog/dictionary). If you aren't doing so already, start using Mac's 3-finger tap to find the meaning and synonyms of any word!
 
 ## For Mozilla Firefox
 

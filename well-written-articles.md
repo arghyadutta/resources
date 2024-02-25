@@ -1,4 +1,4 @@
-# Some articles I liked
+# Interesting articles
 
 I curated these without a specific theme. I find them well-written, informative, and compelling; some are even moving. Chronologically ordered.
 

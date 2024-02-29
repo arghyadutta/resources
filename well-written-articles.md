@@ -1,6 +1,6 @@
 # Interesting articles
 
-I curated this list without a specific theme. I find them well-written, informative, and compelling; some are even moving. Chronologically ordered.
+I curated this list without a specific theme. I find these essays well-written, informative, and compelling; some are even moving. Chronologically ordered.
 
 1. A Cautious Case for Socialism; Kenneth J. Arrow; [Dissent Magazine  (1978)](https://www.dissentmagazine.org/article/a-cautious-case-for-socialism/). Arrow offers a careful analysis of capitalism and socialism, without asking you to join a camp.
 2. Commencement address at St. John's College, Santa Fe; Boojums all the way through: communicating science in a prosaic age; N. David Mermin; [Cambridge University Press (1990)](https://www.cambridge.org/us/universitypress/subjects/physics/history-philosophy-and-foundations-physics/boojums-all-way-through-communicating-science-prosaic-age?format=PB). On how scientific methods help us to make sense of the world.

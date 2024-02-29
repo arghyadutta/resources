@@ -17,7 +17,6 @@
 
 - [Fountain Pen Network](https://www.fountainpennetwork.com/)
 - [Information is beautiful](https://www.informationisbeautiful.net/)
-- [Apples on a scale from most tart to most sweet](https://www.reddit.com/r/coolguides/comments/davkj5/apples_on_a_scale_from_most_tart_to_most_sweet/)
 
 ## Nifty tools
 
@@ -62,3 +61,10 @@
 - [Guide to english communication for scientists](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/) by Nature
 - [Style: Lessons in Clarity and Grace](https://en.wikipedia.org/wiki/Style:_Lessons_in_Clarity_and_Grace) by Williams and Bizup
 - [Showcase of Scholarly Writing](https://www.hendrenwriting.com/showcase#)
+
+## Food
+
+- [The Complete Guide to Sugar Around the World](https://www.saveur.com/global-sugar-guide) by Craig Cavallo
+- [14 Types Of Rice And The Best Dishes To Use Them](https://www.foodrepublic.com/2017/03/15/all-types-of-rice/) from Food Republic
+- [Apples on a scale from most tart to most sweet](https://www.reddit.com/r/coolguides/comments/davkj5/apples_on_a_scale_from_most_tart_to_most_sweet/)
+- A [nice blog](https://www.konkanirecipes.com/) on [Konkani](https://en.wikipedia.org/wiki/Konkan) recipes. Clear and Concise.

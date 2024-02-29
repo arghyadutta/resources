@@ -68,3 +68,7 @@
 - [14 Types Of Rice And The Best Dishes To Use Them](https://www.foodrepublic.com/2017/03/15/all-types-of-rice/) from Food Republic
 - [Apples on a scale from most tart to most sweet](https://www.reddit.com/r/coolguides/comments/davkj5/apples_on_a_scale_from_most_tart_to_most_sweet/)
 - A [nice blog](https://www.konkanirecipes.com/) on [Konkani](https://en.wikipedia.org/wiki/Konkan) recipes. Clear and Concise.
+
+## Philosophy
+
+-[Bonhoeffer‘s Theory of Stupidity](https://www.youtube.com/watch?v=ww47bR86wSc)

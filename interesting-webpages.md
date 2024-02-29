@@ -71,4 +71,4 @@
 
 ## Philosophy
 
--[Bonhoeffer‘s Theory of Stupidity](https://www.youtube.com/watch?v=ww47bR86wSc)
+-[Bonhoeffer's Theory of Stupidity](https://www.youtube.com/watch?v=ww47bR86wSc)

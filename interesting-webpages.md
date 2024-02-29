@@ -4,6 +4,7 @@
 
 - [Beautiful Chemistry](https://www.beautifulchemistry.net/reaction/)
 - [Illustrated Glossary of Organic Chemistry](https://www.chem.ucla.edu/~harding/IGOC/IGOC.html)
+- [MolView](https://molview.org/)
 
 ## Funny
 
@@ -25,17 +26,15 @@
 - [Create latex tables from data](https://www.tablesgenerator.com/)
 - [Draw a symbol to get its latex command](https://detexify.kirelabs.org/classify.html)
 - [SHERPA/RoMEO (Find out publishers' copyright policies)](https://www.sherpa.ac.uk/romeo/)
-
-## Philosophy
-
-- [An Illustrated Book of Bad Arguments](https://bookofbadarguments.com/?view=flipbook)
-- [Books on Advaita Vedanta](https://advaitasharada.sringeri.net/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%A8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%83/) (in Sanskrit)
+- [Online bibtex tidy: clean up bibtex files](https://flamingtempura.github.io/bibtex-tidy/)
+- [HTML cleanup tool & simplifier](https://www.htmlwasher.com/)
+- [webplotdigitizer - extract data from plots, images, and maps](https://automeris.io/WebPlotDigitizer/)
+- [Find Journals' short names](https://www.ncbi.nlm.nih.gov/nlmcatalog/journals)
 
 ## Physics
 
 - [Scholarpedia](https://www.scholarpedia.org/article/Main_Page)
 - [Special functions](https://dlmf.nist.gov/)
-- [Feynman lectures](https://www.feynmanlectures.caltech.edu/)
 - [Index to Catalogue of Lattices](https://www.math.rwth-aachen.de/~Gabriele.Nebe/LATTICES/)
 - [The World of Mathematical Equations](https://eqworld.ipmnet.ru/)
 - [Short, insightful notes](https://research.phys.cmu.edu/deserno/random-acts-of-knowledge/) by Markus Deserno
@@ -43,7 +42,6 @@
 
 ## Programming
 
-- [R Cookbook](https://rc2e.com/) by J.D. Long and Paul Teetor
 - [NumPy Illustrated: The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d) by Lev Maximov
 - [Why Python is Slow: Looking Under the Hood](https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/) by Jake Vanderplus
 - [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/) by Jay Alammar
@@ -55,15 +53,6 @@
 - [Some musings on academic research](https://home.iitk.ac.in/~anindya/musing_on_academic_research.htm) by Anindya Chatterjee
 - [You And Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) by Richard Hamming
 
-## Free books on Statistics and Machine Learning
-
-- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
-- [Deep Learning for Molecules and Materials](https://whitead.github.io/dmol-book/intro.html) by Andrew D. White
-- [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila/) by David MacKay
-- [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/) by Hossein Pishro-Nik
-- [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
-- [An Introduction to Statistical Learning](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
-
 ## Resources on Writing
 
 - [Punctuation guide](https://www.thepunctuationguide.com/)
@@ -72,3 +61,4 @@
 - [Advice on scientific writing](https://www.mpinat.mpg.de/631838/guidelines_english.pdf) by Hermut Grubmüller
 - [Guide to english communication for scientists](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/) by Nature
 - [Style: Lessons in Clarity and Grace](https://en.wikipedia.org/wiki/Style:_Lessons_in_Clarity_and_Grace) by Williams and Bizup
+- [Showcase of Scholarly Writing](https://www.hendrenwriting.com/showcase#)

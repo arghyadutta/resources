@@ -1,6 +1,6 @@
 # Useful Software
 
-Nifty and free software tools.
+Nifty and free software
 
 ## For MacBook
 

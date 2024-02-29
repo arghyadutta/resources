@@ -17,7 +17,7 @@ I curated this list without a specific theme. I find these essays well-written, 
 13. Memories of a Bangalore Quartet; P. Balaram; [IISc Connet (2017)](https://connect.iisc.ac.in/2017/06/memories-of-a-bangalore-quartet/)
 14. The Myth and Magic of Generating New Ideas; Dan Rockmore; [The New Yorker (2019)](https://www.newyorker.com/culture/annals-of-inquiry/the-myth-and-magic-of-generating-new-ideas). Research ideas are difficult to conceive; Rockmore tells about what works for him.
 15. What It Means, and Doesn’t Mean, to Get a Job in Physics; Brian Skinner;  [Gravity and Levity (2019)](https://gravityandlevity.wordpress.com/2019/03/25/what-it-means-and-doesnt-mean-to-get-a-job-in-physics/) The title says it all.
-16. The I in the Internet; Jia Tolentino; [CCCBLab (2020)](https://lab.cccb.org/en/the-i-in-the-internet/) On how we interact with the Internet.
+16. The I in the Internet; Jia Tolentino; [CCCBLab (2020)](https://lab.cccb.org/en/the-i-in-the-internet/). A sharp essay on the ways social media affects us.
 17. The adversarial culture in philosophy does not serve the truth; Martin Lenz; [Aeon (2020)](https://aeon.co/ideas/the-adversarial-culture-in-philosophy-does-not-serve-the-truth). Persuasively argued.
 18. What Is a Particle?; Natalie Wolchover; [Quanta (2020)](https://www.quantamagazine.org/what-is-a-particle-20201112/#0). Wolchover has an uncanny ability to phrase difficult ideas in popular language; this essay shows that once again.
 19. America Is Not Ready for Omicron; Ed Yong; [The Atlantic (2021)](https://www.theatlantic.com/health/archive/2021/12/america-omicron-variant-surge-booster/621027/). Ed Yong shows once again that one can write a good essay only when one deeply cares about the topic.

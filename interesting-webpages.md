@@ -52,7 +52,7 @@
 - [Some musings on academic research](https://home.iitk.ac.in/~anindya/musing_on_academic_research.htm) by Anindya Chatterjee
 - [You And Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) by Richard Hamming
 
-## Resources on Writing
+## Guides on Writing
 
 - [Punctuation guide](https://www.thepunctuationguide.com/)
 - [Purdue Online Writing Lab](https://owl.purdue.edu/owl/purdue_owl.html)

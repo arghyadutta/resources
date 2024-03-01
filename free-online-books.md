@@ -30,6 +30,7 @@ Free books from good people.
 
 - [Online course on topology in condensed matter](https://topocondmat.org/)
 - [Feynman lectures](https://www.feynmanlectures.caltech.edu/)
+- [Electrodynamics](https://repository.upenn.edu/handle/20.500.14332/43386.2) by Phil Nelson (excellent!)
 
 ## Programming
 
@@ -37,3 +38,6 @@ Free books from good people.
 - [R Cookbook](https://rc2e.com/) by J.D. Long and Paul Teetor
 
 
+## Visualization
+
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html) by Claus O. Wilke

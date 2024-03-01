@@ -2,21 +2,14 @@
 
 Free books from good people.
 
+
+## Biology
+
+- [An Owner's Guide to the Human Genome: an introduction to human population genetics, variation and disease](https://web.stanford.edu/group/pritchardlab/HGbook.html) by Jonathan Pritchard
+
 ## English usage
 
 - [Common Errors in English Usage](https://brians.wsu.edu/common-errors-in-english-usage/)
-
-## Stat-ML
-
-- [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) by Susan Holmes and Wolfgang Huber
-- [Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/) by Paul Roback and Julie Legler
-- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
-- [Deep Learning for Molecules and Materials](https://whitead.github.io/dmol-book/intro.html) by Andrew D. White
-- [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila/) by David MacKay
-- [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/) by Hossein Pishro-Nik
-- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
-- [An Introduction to Statistical Learning](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
-- [Model-Based Machine Learning](https://www.mbmlbook.com/toc.html) by John Winn
 
 ## Philosophy/Classics
 
@@ -37,6 +30,17 @@ Free books from good people.
 - [Python for Data Analysis](https://wesmckinney.com/book/) by Wes McKinney
 - [R Cookbook](https://rc2e.com/) by J.D. Long and Paul Teetor
 
+## Stat-ML
+
+- [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) by Susan Holmes and Wolfgang Huber
+- [Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/) by Paul Roback and Julie Legler
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
+- [Deep Learning for Molecules and Materials](https://whitead.github.io/dmol-book/intro.html) by Andrew D. White
+- [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila/) by David MacKay
+- [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/) by Hossein Pishro-Nik
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
+- [An Introduction to Statistical Learning](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+- [Model-Based Machine Learning](https://www.mbmlbook.com/toc.html) by John Winn
 
 ## Visualization
 

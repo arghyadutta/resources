@@ -23,3 +23,5 @@ I curated this list without a specific theme. I find these essays well-written, 
 19. America Is Not Ready for Omicron; Ed Yong; [The Atlantic (2021)](https://www.theatlantic.com/health/archive/2021/12/america-omicron-variant-surge-booster/621027/). Ed Yong shows once again that one can write a good essay only when one deeply cares about the topic.
 20. The deracination of literature; Mary Gaitskill; [Unheard (2022)](https://unherd.com/2022/06/the-death-of-literature/). Why read fiction? And does good writing matter?
 21. On Killing Charles Dickens; Zadie Smith; [The New Yorker (2023)](https://www.newyorker.com/magazine/2023/07/10/on-killing-charles-dickens). Zadie Smith tries—and fails—to ignore Dickens while writing a nineteenth-century historical fiction.
+22. All the Carcinogens We Cannot See; Siddhartha Mukherjee; [The New Yorker (2023)](https://www.newyorker.com/magazine/2023/12/18/all-the-carcinogens-we-cannot-see)
+23. One Reason Hybrid Work Makes Employees Miserable. And how to fix it.; By Cal Newport; [The Atlantic (2024)](https://www.theatlantic.com/ideas/archive/2024/02/hybrid-work-attention-productivity/677598/)

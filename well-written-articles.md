@@ -2,7 +2,7 @@
 
 I curated this list without a specific theme. I find these essays well-written, informative, and compelling; some are even moving. Chronologically ordered.
 
-1. Here is New York; E. B. White (1949); Reprinted in [Essays of E B White (2016)](https://openlibrary.org/works/OL24608880W/Essays_of_E._B._White?edition=key%3A/books/OL32645005M). Possibly the most famous essays on NYC, and with good reasons.
+1. Here is New York; E. B. White (1949); Reprinted in [Essays of E B White (2016)](https://openlibrary.org/works/OL24608880W/Essays_of_E._B._White?edition=key%3A/books/OL32645005M). Possibly the most famous essays on NYC—for good reasons.
 2. A Cautious Case for Socialism; Kenneth J. Arrow; [Dissent Magazine  (1978)](https://www.dissentmagazine.org/article/a-cautious-case-for-socialism/). Arrow offers a careful analysis of capitalism and socialism, without asking you to join a camp.
 3. Commencement address at St. John's College, Santa Fe; Boojums all the way through: communicating science in a prosaic age; N. David Mermin; [Cambridge University Press (1990)](https://www.cambridge.org/us/universitypress/subjects/physics/history-philosophy-and-foundations-physics/boojums-all-way-through-communicating-science-prosaic-age?format=PB). On how scientific methods help us to make sense of the world.
 4. Principles of Effective Research; Michael A. Nielsen; [Blogpost (2004)](https://michaelnielsen.org/blog/principles-of-effective-research/). A wonderful guide to working scientists. Brilliant!

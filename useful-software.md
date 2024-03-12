@@ -24,3 +24,4 @@ Nifty and free software
 9. [Gesturefy](https://addons.mozilla.org/en-US/firefox/addon/gesturefy/) is such a neat add-on! It lets you do several things, like going back to the previous webpage, only with gestures of your mouse.
 10. You open a webpage like [Cosma Shalizi's](http://bactra.org) (check it!) and find hundreds of links. Which one is active and which one is dead? [Link analyzer](https://addons.mozilla.org/en-US/firefox/addon/link-analyzer/) does that job for you with one click.
 11. [Hide Youtube-Shorts](https://addons.mozilla.org/en-US/firefox/addon/hide-youtube-shorts/) removes YouTube shorts from its homepage, subscriptions page, and search results. It can also hide the "Shorts" tab. Good riddance!
+12. [Control Panel for Twitter](https://addons.mozilla.org/en-US/firefox/addon/control-panel-for-twitter/) can edit/remove/add elements of Twitter homepage to create a much better user interface.

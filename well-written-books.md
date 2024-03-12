@@ -4,8 +4,6 @@ I [asked on Twitter](https://twitter.com/arghya_dutta_/status/167995569728957644
 
 A [helpful video](https://www.youtube.com/watch?v=LP1Wleu3Njs) by Meghan Adrian on how Open Library works and how you can browse and, if available, borrow books.
 
-Note: I will keep adding books to this list.
-
 ---
 
 ## General science

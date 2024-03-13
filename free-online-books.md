@@ -64,4 +64,3 @@ In case you didn't know, [Zotero 7 (beta version)](https://www.zotero.org/suppor
 - [Open culture's curated list of "800 Free eBooks for iPad, Kindle & Other Devices "](https://www.openculture.com/free_ebooks)
 - [Fadedpage](https://www.fadedpage.com/index.php) Canada's project Gutenberg. Surprisingly rich collection.
 - [Classic books (from the U.S. Library of Congress)](https://www.read.gov/books/index.html)
-- 

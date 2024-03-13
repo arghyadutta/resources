@@ -30,18 +30,38 @@ Free books from good people.
 - [Python for Data Analysis](https://wesmckinney.com/book/) by Wes McKinney
 - [R Cookbook](https://rc2e.com/) by J.D. Long and Paul Teetor
 
-## Stat-ML
+## Stat
 
 - [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) by Susan Holmes and Wolfgang Huber
 - [Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/) by Paul Roback and Julie Legler
+- [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/) by Hossein Pishro-Nik
+- [The Little Handbook of Statistical Practice](http://www.jerrydallal.com/LHSP/LHSP.htm) by Gerard E. Dallal
+
+## ML
+
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
 - [Deep Learning for Molecules and Materials](https://whitead.github.io/dmol-book/intro.html) by Andrew D. White
 - [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila/) by David MacKay
-- [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/) by Hossein Pishro-Nik
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 - [Model-Based Machine Learning](https://www.mbmlbook.com/toc.html) by John Winn
+- [The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html) by François Fleuret. He formatted the book for reading on smartphones—such innovative people!
+
+## Maths
+
+- [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) by Kaare Brandt Petersen and Michael Syskind Pedersen
 
 ## Visualization
 
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html) by Claus O. Wilke
+
+## General books
+
+In case you didn't know, [Zotero 7 (beta version)](https://www.zotero.org/support/beta_builds) includes native readers for HTML and Epub files! One issue I've always had with epub books is a lack of suitable software for reading them on computers (yes, I know about Calibre). Zotero 7 elegantly solved the problem.
+
+- [Project Gutenberg](https://www.gutenberg.org/)
+- [archive.org](https://archive.org/) Two rather obvious entries, but the more I explore them, the more I get pleasantly surprised. They are true treasure troves.
+- [Open culture's curated list of "800 Free eBooks for iPad, Kindle & Other Devices "](https://www.openculture.com/free_ebooks)
+- [Fadedpage](https://www.fadedpage.com/index.php) Canada's project Gutenberg. Surprisingly rich collection.
+- [Classic books (from the U.S. Library of Congress)](https://www.read.gov/books/index.html)
+- 

@@ -4,7 +4,7 @@ visualizing ideas and objects
 
 ## Physics
 
-Observing physics through experiments and computers.
+observing physics through experiments and computers
 
 - [Marangoni Bursting: Evaporation-Induced Emulsification of a Two-Component Droplet](https://www.youtube.com/watch?v=y44rQdiixuw)
 - [Sublimation of iodine](https://www.youtube.com/watch?v=NX9de64LbIQ)
@@ -23,6 +23,8 @@ Observing physics through experiments and computers.
 - [Visualizing prime factors](https://twitter.com/matthen2/status/1421413387507019783)
 - [Affine transformations](https://www.youtube.com/watch?v=E3Phj6J287o)
 
-## Art
+## Tools
+
+how to create good visualizations
   
 - [Beginning Graphic Design: Color](https://www.youtube.com/watch?v=_2LLXnUdUIc)

@@ -35,6 +35,8 @@ Free books from good people.
 - [Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/) by Paul Roback and Julie Legler
 - [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/) by Hossein Pishro-Nik
 - [The Little Handbook of Statistical Practice](http://www.jerrydallal.com/LHSP/LHSP.htm) by Gerard E. Dallal
+- [A User’s Guide to Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/) by Matthew Blackwell
+- [Regression and Other Stories](https://avehtari.github.io/ROS-Examples/) by Andrew Gelman, Jennifer Hill, Aki Vehtari
 
 ## Machine Learning
 

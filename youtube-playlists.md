@@ -54,5 +54,5 @@ A curated list of excellent math/science/writing classes or lecture series that 
 
 - [Writing in the Sciences by Kristin Sainani](https://www.youtube.com/playlist?list=PLGNyy-rO8GoM7uUxVfYJbccEO8eNFfr1M). If you're starting to write scientific prose, watch the series. Seriously.
 - [The Writer's workshop](https://www.youtube.com/playlist?list=PLJicmE8fK0Eib5y-bh4RVFvg492OIwpg8). Short guides from Ted-Ed.
-- [Writing Style—An Online Guide](https://www.youtube.com/playlist?list=PLCE15C7599ED6147B). Good solid introduction to English grammar and writing beyond simple definitions.
+- [Writing Style—An Online Guide](https://www.youtube.com/playlist?list=PLCE15C7599ED6147B). Good solid introduction to English grammar and writing beyond simple definitions. I got to know about this [nice book on rhetorical grammar](https://books.google.de/books/about/Rhetorical_Grammar.html?id=N9WgBwAAQBAJ&redir_esc=y) from these lectures.
 - [Grammar and Stylistics: Writing Clearly](https://www.youtube.com/playlist?list=PL2SrPtYzGjMaMWrybapwijWDquLv89oNT) by Randall Eggert from University of Utah. Excellent! See, for example, the one on [tense and aspect](https://www.youtube.com/watch?v=_b39OCT-KUk&list=PL2SrPtYzGjMaMWrybapwijWDquLv89oNT&index=24).

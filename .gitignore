@@ -1,15 +1,1 @@
 .DS_Store
-
-## LaTeX
-**/*.tex
-**/*.fdb_latexmk
-**/*.aux
-**/*.fls
-**/*.log
-**/*.synctex
-**/*.synctex(busy)
-**/*.synctex.gz
-**/*.synctex.gz(busy)
-**/*.bbl
-**/*.blg
-**/*.out

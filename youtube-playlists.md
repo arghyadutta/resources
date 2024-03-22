@@ -27,15 +27,14 @@ A curated list of excellent math/science/writing classes or lecture series that 
 
 ## Philosophy
 
-- [Karl Popper - Science: Conjectures and Refutations](https://www.youtube.com/playlist?list=PL8Nxd4OXpzqlbV-ZBu4VfKHRtThzEL7Pf) by Victor Gijsbers. He is a good teacher. Check his channel for more, e.g. epistemology. 
+- [Karl Popper - Science: Conjectures and Refutations](https://www.youtube.com/playlist?list=PL8Nxd4OXpzqlbV-ZBu4VfKHRtThzEL7Pf) by Victor Gijsbers. He is a good teacher. Check his channel for more, e.g. epistemology.
 
 ## Quantum mechanics
 
 - [Foundations of Quantum Mechanics by Florian Marquardt](https://www.youtube.com/playlist?list=PLemsnf33Vij6fbgJvFsm_ipMiFHxS4_kw). Fun slides on an intriguing topic.
 - Another really great series on [Foundations of Quantum Mechanics. This one is by Rob Spekkens.](https://www.youtube.com/playlist?list=PLaNkJORnlhZk9TDBIFJ49iQ2_f4PBzaS5)
 - [Lectures on Quantum Computing](https://www.youtube.com/playlist?list=PL4cl2VeMbE330GKLkYIE8UBrrYdp8L9mR). It's very much worth watching despite the poor recording quality.
-- [Introduction to Quantum Information Science](https://www.youtube.com/playlist?list=PLkespgaZN4gmu0nWNmfMflVRqw0VPkCGH) by Artur Ekert. Ekert is a patient teacher. [Accompanying free book](https://qubit.guide/) is great, too.
-- 
+- [Introduction to Quantum Information Science](https://www.youtube.com/playlist?list=PLkespgaZN4gmu0nWNmfMflVRqw0VPkCGH) by Artur Ekert. Ekert is a patient teacher. The [accompanying free book](https://qubit.guide/) is useful, too.
 
 ## Statistical mechanics
 
@@ -52,10 +51,8 @@ A curated list of excellent math/science/writing classes or lecture series that 
 - [Machine learning course by Yaser Abu-Mostafa](https://www.youtube.com/playlist?list=PLD63A284B7615313A). Especially useful for its introductory discussion on learnability and VC dimension.
 
 ## Writing
+
 - [Writing in the Sciences by Kristin Sainani](https://www.youtube.com/playlist?list=PLGNyy-rO8GoM7uUxVfYJbccEO8eNFfr1M). If you're starting to write scientific prose, watch the series. Seriously.
 - [The Writer's workshop](https://www.youtube.com/playlist?list=PLJicmE8fK0Eib5y-bh4RVFvg492OIwpg8). Short guides from Ted-Ed.
 - [Writing Style—An Online Guide](https://www.youtube.com/playlist?list=PLCE15C7599ED6147B). Good solid introduction to English grammar and writing beyond simple definitions.
-- [Grammar and Stylistics: Writing Clearly](https://www.youtube.com/playlist?list=PL2SrPtYzGjMaMWrybapwijWDquLv89oNT) by Randall Eggert from University of Utah. Excellent! See the one on [tense and aspect](https://www.youtube.com/watch?v=_b39OCT-KUk&list=PL2SrPtYzGjMaMWrybapwijWDquLv89oNT&index=24), to get an idea on why I like this series so much.
-
-
-
+- [Grammar and Stylistics: Writing Clearly](https://www.youtube.com/playlist?list=PL2SrPtYzGjMaMWrybapwijWDquLv89oNT) by Randall Eggert from University of Utah. Excellent! See, for example, the one on [tense and aspect](https://www.youtube.com/watch?v=_b39OCT-KUk&list=PL2SrPtYzGjMaMWrybapwijWDquLv89oNT&index=24).

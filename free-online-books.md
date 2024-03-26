@@ -37,6 +37,7 @@ Free books from good people.
 - [The Little Handbook of Statistical Practice](http://www.jerrydallal.com/LHSP/LHSP.htm) by Gerard E. Dallal
 - [A User’s Guide to Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/) by Matthew Blackwell
 - [Regression and Other Stories](https://avehtari.github.io/ROS-Examples/) by Andrew Gelman, Jennifer Hill, Aki Vehtari
+- [The Book of Statistical Proofs](https://statproofbook.github.io/) by Joram Soch and collaborators (it's an open book on GitHub)
 
 ## Machine Learning
 

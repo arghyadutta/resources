@@ -26,10 +26,19 @@ I think adding videos *on* scientists to this list makes sense.
 
 - [Introduction to parallel Programming in Open MP](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFMAko9JTyDJDIt1W48Sxmg) NPTEL course by Yogish Sabharwal from IIT Delhi
 - [A short series on asymptotic notation and analysis of algorithms by David Scot Taylor](https://www.youtube.com/playlist?list=PLSVu1-lON6Lwr2u_VtLcAxtVAZge9sttL). Check his YouTube channel, Algorithms with Attitude, for more stuff.
+- [HPC by Matthew Jacob from IISc](https://www.youtube.com/playlist?list=PL2F82ECDF8BB71B0C)
+- [Improving and optimizing Python by Sebastian Mathôt](https://www.youtube.com/playlist?list=PLR-r0edywujc9bj3vpNjqIDg-WbWj3vyz)
+- [Intro to parallel programming](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2)
+- [Introduction to SLURM](https://www.youtube.com/playlist?list=PLZfwi0jHMBxB-Bd0u1lTT5r0C3RHUPLj-)
+- [Pointers in C and C++](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
+- [Message-passing programming with MPI](https://www.youtube.com/playlist?list=PLD0xgZGaUd1IV8VgXb1ggOLkEv19JmZiP)
+- [C++ by iamcanadian](https://www.youtube.com/playlist?list=PLbHYdvrWBMxY9onUxT2l7-ZyuFEEI8Qpv)
 
 ## Philosophy
 
 - [Karl Popper - Science: Conjectures and Refutations](https://www.youtube.com/playlist?list=PL8Nxd4OXpzqlbV-ZBu4VfKHRtThzEL7Pf) by Victor Gijsbers. He is a good teacher. Check his channel for more playlists, e.g. he is currently (March 2024) teaching epistemology.
+- [Philosophy of the humanities](https://www.youtube.com/playlist?list=PLPeStI124dee1ByfcDzRvPxKDNb0GQjmo)
+- [Philosophy of Science by Paul Hoyningen](https://www.youtube.com/playlist?list=PLHwUrKo7SDpQQcNZ142H91Dby-kBkAe9V)
 
 ## Quantum mechanics
 
@@ -50,6 +59,8 @@ I think adding videos *on* scientists to this list makes sense.
 - Roman Vershynin has two neat series on probability theory: [Undergraduate Probability](https://www.youtube.com/playlist?list=PLPjEEUWIWhQVCnBNkMAc4xxCXSILJDJKl) and [High-Dimensional Probability](https://www.youtube.com/playlist?list=PLPjEEUWIWhQV7X6dXfrVP3w0KBBLBVJ0j). He teaches with care and patience.
 - [Singular Value Decomposition by Steven Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv). Delightful variations on a theme. Exceptionally clear set of lectures.
 - [Machine learning course by Yaser Abu-Mostafa](https://www.youtube.com/playlist?list=PLD63A284B7615313A). Especially useful for its introductory discussion on learnability and VC dimension.
+- [Bayesian methods by RIchard McElreath](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)
+- [Statistics for application by Phillippe Rigollet](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
 ## Writing
 
@@ -57,3 +68,13 @@ I think adding videos *on* scientists to this list makes sense.
 - [The Writer's workshop](https://www.youtube.com/playlist?list=PLJicmE8fK0Eib5y-bh4RVFvg492OIwpg8). Short guides from Ted-Ed.
 - [Writing Style—An Online Guide](https://www.youtube.com/playlist?list=PLCE15C7599ED6147B). Good solid introduction to English grammar and writing beyond simple definitions. I got to know about this [nice book on rhetorical grammar](https://books.google.de/books/about/Rhetorical_Grammar.html?id=N9WgBwAAQBAJ&redir_esc=y) from these lectures.
 - [Grammar and Stylistics: Writing Clearly](https://www.youtube.com/playlist?list=PL2SrPtYzGjMaMWrybapwijWDquLv89oNT) by Randall Eggert from University of Utah. Excellent! See, for example, the one on [tense and aspect](https://www.youtube.com/watch?v=_b39OCT-KUk&list=PL2SrPtYzGjMaMWrybapwijWDquLv89oNT&index=24).
+
+### Mathematics
+
+- [Visual group theory](https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
+
+### Visualization
+
+- [Inkscape explained by Logos by Nick](https://www.youtube.com/playlist?list=PLynG8gQD-n8Byyq30_FOq9ylUFL1nTkGC)
+- [Inkscape tutorials by TJ Free](https://www.youtube.com/playlist?list=PLqazFFzUAPc5lOQwDoZ4Dw2YSXtO7lWNv)
+- [Inkscape tutorial for beginners](https://www.youtube.com/playlist?list=PLxxNwIiCCunS7X6mBzXYa4Xiq2w1t-cng) (really good)

@@ -37,6 +37,7 @@ I think adding videos *on* scientists to this list makes sense.
 - Another really great series on [Foundations of Quantum Mechanics](https://www.youtube.com/playlist?list=PLaNkJORnlhZk9TDBIFJ49iQ2_f4PBzaS5). This one is by Rob Spekkens.
 - [Lectures on Quantum Computing](https://www.youtube.com/playlist?list=PL4cl2VeMbE330GKLkYIE8UBrrYdp8L9mR). It's very much worth watching despite the poor recording quality.
 - [Introduction to Quantum Information Science](https://www.youtube.com/playlist?list=PLkespgaZN4gmu0nWNmfMflVRqw0VPkCGH) by Artur Ekert. Ekert is a patient teacher. The [accompanying free book](https://qubit.guide/) is useful, too.
+- [Quantum entanglement by Mark Wilde](https://www.youtube.com/playlist?list=PLuJry1XK50GPaEa-chNbcbY3TzVZ93e89)
 
 ## Statistical mechanics
 

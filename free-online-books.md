@@ -23,6 +23,11 @@ Free books from good people.
 - [Online course on topology in condensed matter](https://topocondmat.org/)
 - [Feynman lectures](https://www.feynmanlectures.caltech.edu/)
 - [Electrodynamics](https://repository.upenn.edu/handle/20.500.14332/43386.2) by Phil Nelson (excellent!)
+- [Understanding the Properties of Matter](https://blog.physicsofmatter.com/) by Michael de Podesta
+- [Entropy](https://arxiv.org/abs/2409.09232) by John Baez
+- [Group Theory in Physics: An Introduction with Mathematica](https://arxiv.org/abs/2408.01441) by Balasubramanian Ananthanarayan, Souradeep Das, Amitabha Lahiri, Suhas Sheikh, Sarthak Talukdar
+- [Lecture notes on Statistical Physics](https://www.phys.ens.fr/~lbocquet/Lecture-Notes-Stat-Phys-L3-Bocquet.pdf) by Lydéric Bocquet
+- [Lecture notes on Soft Matter and Interfaces](https://www.phys.ens.fr/~lbocquet/Lecture-Notes-Soft-Matter-M1-Bocquet.pdf) by Lydéric Bocquet
 
 ## Programming
 

@@ -3,6 +3,7 @@
 I curated this list without a specific theme. I find these essays well-written, informative, and compelling; some are even moving. Chronologically ordered.
 
 - Politics and the English Language; George Orwell; [Horizon (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/). Orwell gives five rules for good writing and adds a sixth: "Break any of these rules sooner than say anything outright barbarous."
+- Meditation in a Toolshed; C. S Lewis; [The Coventry Evening Telegraph (1945)](https://gist.github.com/hzoo/d84d264b9c87f2aef472becf591e0c4e). Lewis on looking at and looking along. Thoughtful piece.
 - A Nice Cup of Tea; George Orwell; [Evening Standard (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/a-nice-cup-of-tea/). "Tenthly, one should pour tea into the cup first." And of course, the man had one more rule "Lastly, tea…".
 - Here is New York; E. B. White (1949); Reprinted in [Essays of E B White (2016)](https://openlibrary.org/works/OL24608880W/Essays_of_E._B._White?edition=key%3A/books/OL32645005M). Possibly the most famous essays on NYC—for good reasons.
 - A Cautious Case for Socialism; Kenneth J. Arrow; [Dissent Magazine  (1978)](https://www.dissentmagazine.org/article/a-cautious-case-for-socialism/). Arrow offers a careful analysis of capitalism and socialism, without asking you to join a camp.
@@ -35,4 +36,5 @@ I curated this list without a specific theme. I find these essays well-written, 
 - One Reason Hybrid Work Makes Employees Miserable. And how to fix it.; Cal Newport; [The Atlantic (2024)](https://www.theatlantic.com/ideas/archive/2024/02/hybrid-work-attention-productivity/677598/)
 - Peregrinations of grief; Emily Polk; [Aeon (2024)](https://aeon.co/essays/so-it-goes-and-goes-and-goes-on-vonneguts-death-mantra). "Everybody should know what it is to have friends like these. Everybody should know what it is to be loved like this." Astonishingly beautiful and tender recollection of a friend.
 - Why rabbits? Towards a better, floofier world; Noah Smith; [Noahpinion (2024)](https://www.noahpinion.blog/p/why-rabbits) "People often ask me: “Why rabbits?” Usually my answer is just “They’re floofy.”" Heartfelt reminiscence.
-- The Tail End, What we lose when we lose a pet; Sloane Crosley; [The New Yorker (2024)]([text](https://www.newyorker.com/magazine/2024/08/12/the-tail-end)). 
+- The Tail End, What we lose when we lose a pet; Sloane Crosley; [The New Yorker (2024)](https://www.newyorker.com/magazine/2024/08/12/the-tail-end). 
+- ‘He was in mystic delirium’: was this hermit mathematician a forgotten genius whose ideas could transform AI – or a lonely madman?; Phil Hoad; [Guardian (2024)](https://www.theguardian.com/science/article/2024/aug/31/alexander-grothendieck-huawei-ai-artificial-intelligence) The end life of Grothendieck.

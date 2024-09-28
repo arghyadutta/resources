@@ -1,6 +1,6 @@
 # Well-written books on science and scientists
 
-I [asked on Twitter](https://twitter.com/arghya_dutta_/status/1679955697289576448) which books people like for clarity and prose; many generously shared their favorites. As the Twitter thread quickly became a maze, I collected them here and, if available, added *links to Open Library—where you can borrow and read quite a few of them for free*! I will update the list as more suggestions come in. Thanks to all who shared their favorites.
+A growing list of books that I and some other think are well-written. It started when I [asked on Twitter](https://twitter.com/arghya_dutta_/status/1679955697289576448) which books people like for clarity and prose; many generously shared their favorites. As the Twitter thread quickly became a maze, I collected them here and, if available, added *links to Open Library—where you can borrow and read quite a few of them for free*!
 
 A [helpful video](https://www.youtube.com/watch?v=LP1Wleu3Njs) by Meghan Adrian on how Open Library works and how you can browse and, if available, borrow books.
 
@@ -37,6 +37,7 @@ A [helpful video](https://www.youtube.com/watch?v=LP1Wleu3Njs) by Meghan Adrian 
 - [The Way of the Cell: Molecules, Organisms, and the Order of Life](https://global.oup.com/academic/product/the-way-of-the-cell-9780195163384) by Franklin M. Harold
 - [Boojums All the Way through: Communicating Science in a Prosaic Age](https://www.cambridge.org/us/universitypress/subjects/physics/history-philosophy-and-foundations-physics/boojums-all-way-through-communicating-science-prosaic-age?format=PB) by N. David Mermin
 - [Memories of a Theoretical Physicis](https://arxiv.org/abs/1708.09093); Joseph Polchinski; arXiv (2017)
+- [Book was there: reading in electronic times](https://openlibrary.org/works/OL16510135W/Book_was_there) by Andrew Piper
 
 ## Biographies
 
